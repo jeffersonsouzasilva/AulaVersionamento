@@ -1,1 +1,3 @@
 git log e um comando que lista os commits realizados
+
+git atatus e um otimo comando
